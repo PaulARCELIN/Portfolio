@@ -1,0 +1,22 @@
+.app-header {
+    background-color:#26474E;
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: calc(10px + 2vmin);
+    font-family: 'puppy';
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.app-header p {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.nom {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
